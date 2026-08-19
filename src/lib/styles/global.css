@@ -1,0 +1,76 @@
+@import 'tailwindcss';
+
+@font-face {
+	font-family: 'Sans';
+	src: url('/fonts/UncutSans-Light.woff2') format('woff2');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Sans';
+	src: url('/fonts/UncutSans-LightItalic.woff2') format('woff2');
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Sans';
+	src: url('/fonts/UncutSans-Regular.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Sans';
+	src: url('/fonts/UncutSans-RegularItalic.woff2') format('woff2');
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+}
+
+:root {
+	--black: #000;
+	/*--black: #0F0E12;*/
+	--white: #f6f8f7;
+	--gray: #e5e5e5;
+	--font-sans: 'Sans', sans-serif, serif;
+
+	--step--2: clamp(0.7813rem, 0.7736rem + 0.0341vw, 0.8rem);
+	--step--1: clamp(0.9375rem, 0.9119rem + 0.1136vw, 1rem);
+	--step-0: clamp(1.125rem, 1.0739rem + 0.2273vw, 1.25rem);
+	--step-1: clamp(1.35rem, 1.2631rem + 0.3864vw, 1.5625rem);
+	--step-2: clamp(1.62rem, 1.4837rem + 0.6057vw, 1.9531rem);
+	--step-3: clamp(1.944rem, 1.7405rem + 0.9044vw, 2.4414rem);
+	--step-4: clamp(2.3328rem, 2.0387rem + 1.3072vw, 3.0518rem);
+	--step-5: clamp(2.7994rem, 2.384rem + 1.8461vw, 3.8147rem);
+	--step-6: clamp(3.3592rem, 2.7828rem + 2.5621vw, 4.7684rem);
+	--step-7: clamp(4.0311rem, 3.2418rem + 3.508vw, 5.9605rem);
+	--step-8: clamp(4.8373rem, 3.7682rem + 4.7514vw, 7.4506rem);
+	--step-9: clamp(5.8048rem, 4.3695rem + 6.379vw, 9.3132rem);
+	--step-10: clamp(6.9657rem, 5.0529rem + 8.5015vw, 11.6415rem);
+}
+
+@theme {
+	--color-black: var(--black);
+	--color-white: var(--white);
+	--color-gray: var(--gray);
+}
+
+@layer base {
+
+body {
+	font-family: var(--font-sans);
+	background-color: var(--color-black);
+	color: var(--color-white);
+}
+
+p {
+	font-size: var(--step-2);
+	font-weight: 300;
+}
+
+}
