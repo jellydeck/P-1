@@ -1,0 +1,86 @@
+<footer class="flex justify-between bg-black px-8 py-10 flex-wrap gap-10">
+	<select name="country" value="IN">
+		<option value="AL">albania</option>
+		<option value="AD">andorra</option>
+		<option value="AM">armenia</option>
+		<option value="AU">australia</option>
+		<option value="AT">austria</option>
+		<option value="BH">bahrain</option>
+		<option value="BE">belgium</option>
+		<option value="BO">bolivia</option>
+		<option value="BA">bosnia and herzegovina</option>
+		<option value="BR">brazil</option>
+		<option value="CA">canada</option>
+		<option value="CL">chile</option>
+		<option value="CO">colombia</option>
+		<option value="HR">croatia</option>
+		<option value="CZ">czech republic</option>
+		<option value="DK">denmark</option>
+		<option value="EG">egypt</option>
+		<option value="EE">estonia</option>
+		<option value="FI">finland</option>
+		<option value="FR">france</option>
+		<option value="GE">georgia</option>
+		<option value="DE">germany</option>
+		<option value="GR">greece</option>
+		<option value="GY">guyana</option>
+		<option value="HK">hong kong</option>
+		<option value="HU">hungary</option>
+		<option value="IS">iceland</option>
+		<option value="IN">india</option>
+		<option value="IE">ireland</option>
+		<option value="IL">israel</option>
+		<option value="IT">italy</option>
+		<option value="JM">jamaica</option>
+		<option value="JP">japan</option>
+		<option value="JE">jersey</option>
+		<option value="KZ">kazakstan</option>
+		<option value="KR">korea, republic of</option>
+		<option value="KW">kuwait</option>
+		<option value="LV">latvia</option>
+		<option value="LT">lithuania</option>
+		<option value="LU">luxembourg</option>
+		<option value="MO">macau</option>
+		<option value="MY">malaysia</option>
+		<option value="MT">malta</option>
+		<option value="MX">mexico</option>
+		<option value="MC">monaco</option>
+		<option value="NL">netherlands</option>
+		<option value="NZ">new zealand</option>
+		<option value="NO">norway</option>
+		<option value="PE">peru</option>
+		<option value="PH">philippines</option>
+		<option value="PL">poland</option>
+		<option value="PT">portugal</option>
+		<option value="QA">qatar</option>
+		<option value="RO">romania</option>
+		<option value="SA">saudi arabia</option>
+		<option value="RS">serbia</option>
+		<option value="SG">singapore</option>
+		<option value="SK">slovakia</option>
+		<option value="SI">slovenia</option>
+		<option value="ZA">south africa</option>
+		<option value="ES">spain</option>
+		<option value="SE">sweden</option>
+		<option value="CH">switzerland</option>
+		<option value="TW">taiwan</option>
+		<option value="TH">thailand</option>
+		<option value="TR">türkiye</option>
+		<option value="AE">united arab emirates</option>
+		<option value="GB">united kingdom</option>
+		<option value="US">united states</option>
+		<option value="UY">uruguay</option>
+	</select>
+
+	<div class="flex flex-wrap gap-3">
+    <a href="https://teenage.engineering/newsletter">newsletter</a>
+    <a href="https://teenage.engineering/retailers">retailers</a>
+    <a href="https://teenage.engineering/store">store</a>
+    <a href="https://teenage.engineering/terms-of-service">terms</a>
+    <a href="https://teenage.engineering/press">press</a>
+    <a href="https://teenage.engineering/contact">contact</a>
+    <a href="https://teenage.engineering/store/support/returns">returns</a>
+	</div>
+
+	<div>© 2026 teenage engineering</div>
+</footer>

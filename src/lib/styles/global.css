@@ -61,16 +61,24 @@
 }
 
 @layer base {
+	body {
+		font-family: var(--font-sans);
+		background-color: var(--color-black);
+		color: var(--color-white);
+	}
 
-body {
-	font-family: var(--font-sans);
-	background-color: var(--color-black);
-	color: var(--color-white);
-}
+	p {
+		font-size: var(--step-2);
+		font-weight: 300;
+		text-wrap: pretty;
+	}
 
-p {
-	font-size: var(--step-2);
-	font-weight: 300;
-}
+	a:hover {
+		text-decoration: underline;
+	}
 
+	select option {
+		background-color: var(--gray);
+		color: var(--black);
+	}
 }
