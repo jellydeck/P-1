@@ -1,4 +1,4 @@
-<footer class="flex justify-between bg-black px-8 py-10 flex-wrap gap-10">
+<footer class="flex flex-wrap justify-between gap-10 bg-black px-8 py-10">
 	<select name="country" value="IN">
 		<option value="AL">albania</option>
 		<option value="AD">andorra</option>
@@ -73,13 +73,27 @@
 	</select>
 
 	<div class="flex flex-wrap gap-3">
-    <a href="https://teenage.engineering/newsletter">newsletter</a>
-    <a href="https://teenage.engineering/retailers">retailers</a>
-    <a href="https://teenage.engineering/store">store</a>
-    <a href="https://teenage.engineering/terms-of-service">terms</a>
-    <a href="https://teenage.engineering/press">press</a>
-    <a href="https://jaydip.me">contact</a>
-    <a href="https://teenage.engineering/store/support/returns">returns</a>
+		<a href="https://teenage.engineering/newsletter" target="_blank" rel="noreferrer noopener">
+			newsletter
+		</a>
+		<a href="https://teenage.engineering/retailers" target="_blank" rel="noreferrer noopener">
+			retailers
+		</a>
+		<a href="https://teenage.engineering/store" target="_blank" rel="noreferrer noopener">
+			store
+		</a>
+		<a
+			href="https://teenage.engineering/terms-of-service"
+			target="_blank"
+			rel="noreferrer noopener"
+		>
+			terms
+		</a>
+		<a href="https://teenage.engineering/press" target="_blank" rel="noreferrer noopener">
+			press
+		</a>
+		<a href="https://jaydip.me" target="_blank" rel="noreferrer noopener"> contact </a>
+		<a href="https://teenage.engineering/store/support/returns"> returns </a>
 	</div>
 
 	<div>© 2026 teenage engineering</div>

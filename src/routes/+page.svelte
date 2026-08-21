@@ -27,7 +27,7 @@
 
 <div class="space-y-15 bg-gray px-5 py-30 text-center text-black">
 	<div class="mx-auto max-w-[75ch]">
-		<p class="rounded-md bg-orange text-white w-fit px-2 mx-auto">limited edition pulsar series</p>
+		<p class="mx-auto w-fit rounded-md bg-orange px-2 text-white">limited edition pulsar series</p>
 	</div>
 
 	<div class="mx-auto max-w-[75ch]">
@@ -37,18 +37,23 @@
 		</p>
 	</div>
 
+	<div class="md:mx-30">
+		<CalculatorFront />
+	</div>
+
 	<div class="mx-auto max-w-[75ch]">
-		<p class="text-(length:--step-4)">developed with ISRO</p>
+		<a href="https://jaydip.me" class="text-blue text-(length:--step-2)">visit store</a>
+	</div>
+
+	<div class="mx-auto max-w-[75ch]">
+		<p class="text-(length:--step-4)">developed in collaboration with ISRO</p>
 	</div>
 
 	<div class="mx-auto max-w-[75ch]">
 		<p>
-			one thing we admire: they never turn back. so naturally, we only put a single button to clear full screen.
+			one thing we admire: they never turn back. so naturally, we only put a single button to clear
+			full screen.
 		</p>
-	</div>
-
-	<div class="md:mx-30">
-		<CalculatorFront />
 	</div>
 
 	<!-- <div> -->

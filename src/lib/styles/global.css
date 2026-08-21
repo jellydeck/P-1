@@ -33,8 +33,9 @@
 }
 
 :root {
-    --orange: #ED5213;
+	--orange: #ed5213;
 	--black: #000;
+	--blue: #3674bc;
 	/*--black: #0F0E12;*/
 	--white: #f6f8f7;
 	--gray: #e5e5e5;
@@ -56,7 +57,8 @@
 }
 
 @theme {
-    --color-orange: var(--orange);
+	--color-orange: var(--orange);
+	--color-blue: var(--blue);
 	--color-black: var(--black);
 	--color-white: var(--white);
 	--color-gray: var(--gray);
@@ -73,6 +75,10 @@
 		font-size: var(--step-2);
 		font-weight: 300;
 		text-wrap: pretty;
+	}
+
+	a {
+		font-size: var(--step-0);
 	}
 
 	a:hover {
