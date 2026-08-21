@@ -42,17 +42,14 @@
 	</div>
 
 	<div class="mx-auto max-w-[75ch]">
-		<a href="https://jaydip.me" class="text-blue text-(length:--step-2)">visit store</a>
+		<a href="https://jaydip.me" class="text-(length:--step-2) text-blue">visit store</a>
 	</div>
 
-	<div class="mx-auto max-w-[75ch]">
-		<p class="text-(length:--step-4)">developed in collaboration with ISRO</p>
-	</div>
-
-	<div class="mx-auto max-w-[75ch]">
-		<p>
-			one thing we admire: they never turn back. so naturally, we only put a single button to clear
-			full screen.
+	<div class="mx-auto max-w-[75ch] space-y-4">
+		<p>designed with ISRO</p>
+		<p class="text-(length:--step-1)">
+			you go all in or turn back. so naturally, we removed backspace and kept only single button to
+			clear screen
 		</p>
 	</div>
 
