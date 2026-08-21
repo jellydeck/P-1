@@ -78,7 +78,7 @@
     <a href="https://teenage.engineering/store">store</a>
     <a href="https://teenage.engineering/terms-of-service">terms</a>
     <a href="https://teenage.engineering/press">press</a>
-    <a href="https://teenage.engineering/contact">contact</a>
+    <a href="https://jaydip.me">contact</a>
     <a href="https://teenage.engineering/store/support/returns">returns</a>
 	</div>
 

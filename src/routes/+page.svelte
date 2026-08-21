@@ -3,6 +3,8 @@
 	import CalculatorFront from '$lib/components/CalculatorFront.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 	import TE from '$lib/components/TE.svelte';
+
+	import rocket from '$lib/assets/rocket_launch_isro.jpg';
 </script>
 
 <div class="relative">
@@ -14,28 +16,39 @@
 <div class="bg-black py-20 text-center">
 	<div class="mx-auto max-w-[65ch] pb-20">
 		<h1 class="mb-10 text-center text-(length:--step-10) font-light">P-I</h1>
-		<p>tiny and mighty.</p>
-		<p>basics in your pocket.</p>
+		<p>tiny and mighty number crusher.</p>
+		<p></p>
 	</div>
+</div>
+
+<div class="bg-black">
+	<img src={rocket} alt="rocket launch of GSLV-F15 mission by ISRO" />
 </div>
 
 <div class="space-y-15 bg-gray px-5 py-30 text-center text-black">
 	<div class="mx-auto max-w-[75ch]">
-		<p class="text-pretty">pocket friendly calculator to basics.</p>
-	</div>
-
-	<div class="mx-30">
-		<CalculatorFront />
+		<p class="rounded-md bg-orange text-white w-fit px-2 mx-auto">limited edition pulsar series</p>
 	</div>
 
 	<div class="mx-auto max-w-[75ch]">
-		<p class="text-(length:--step-4)">
-			strip out all the unnecessary functions and focus on primitive arithmetic operations.
+		<p>
+			a calculator with only essential operations &amp; a clear screen button in compact body you
+			can slide easily in pocket. a coin battery that lasts months of use.
 		</p>
 	</div>
 
 	<div class="mx-auto max-w-[75ch]">
-		<p>designed in collaboration with ISRO</p>
+		<p class="text-(length:--step-4)">developed with ISRO</p>
+	</div>
+
+	<div class="mx-auto max-w-[75ch]">
+		<p>
+			one thing we admire: they never turn back. so naturally, we only put a single button to clear full screen.
+		</p>
+	</div>
+
+	<div class="md:mx-30">
+		<CalculatorFront />
 	</div>
 
 	<!-- <div> -->
