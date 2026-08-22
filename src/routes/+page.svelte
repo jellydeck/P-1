@@ -27,7 +27,7 @@
 
 <div class="space-y-15 bg-gray px-5 py-30 text-center text-black">
 	<div class="mx-auto max-w-[75ch]">
-		<p class="mx-auto w-fit rounded-md bg-orange px-2 text-white">limited edition pulsar series</p>
+		<p class="mx-auto w-fit rounded-md bg-orange px-2 text-white">limited edition</p>
 	</div>
 
 	<div class="mx-auto max-w-[75ch]">
