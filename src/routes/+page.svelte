@@ -5,6 +5,7 @@
 	import TE from '$lib/components/TE.svelte';
 
 	import rocket from '$lib/assets/rocket_launch_isro.jpg';
+	import Specs from '$lib/components/Specs.svelte';
 </script>
 
 <div class="relative">
@@ -17,7 +18,6 @@
 	<div class="mx-auto max-w-[65ch] pb-20">
 		<h1 class="mb-10 text-center text-(length:--step-10) font-light">P-I</h1>
 		<p>tiny and mighty number crusher.</p>
-		<p></p>
 	</div>
 </div>
 
@@ -33,7 +33,7 @@
 	<div class="mx-auto max-w-[75ch]">
 		<p>
 			a calculator with only essential operations &amp; a clear screen button in compact body you
-			can slide easily in pocket. a coin battery that lasts months of use.
+			can slide easily into your pocket. a coin battery that lasts months of use.
 		</p>
 	</div>
 
@@ -42,20 +42,20 @@
 	</div>
 
 	<div class="mx-auto max-w-[75ch]">
-		<a href="https://jaydip.me" class="text-(length:--step-2) text-blue">visit store</a>
+		<a href="https://jaydip.me" class="text-(length:--step-2) text-blue">buy now</a>
 	</div>
 
 	<div class="mx-auto max-w-[75ch] space-y-4">
-		<p>designed with ISRO</p>
+		<p>designed with ISRO, only 100 editions</p>
 		<p class="text-(length:--step-1)">
-			you go all in or turn back. so naturally, we removed backspace and kept only single button to
-			clear screen
+			these guys don't know when to turn back. so naturally, we were inspired with that attitude
+			designed our calculator with one button to clear full screen. if it's wrong it ain't worth it.
 		</p>
 	</div>
 
 	<!-- <div> -->
 	<!-- <p>designed to work <i>with</i> your muscle memory</p> -->
-	<!-- <p>add, substract, multiply and divide numbers quickly.</p> -->
+	<!-- <p>add, subtract, multiply and divide numbers quickly.</p> -->
 	<!-- <p>there is intentionaly one clear button that clears whole screen.</p> -->
 	<!-- <p>comes with finger rest so you can be rest assured. not useful for scientific calculations*</p> -->
 	<!-- </div> -->
@@ -67,5 +67,7 @@
 		</p>
 	</div> -->
 </div>
+
+<Specs />
 
 <Footer />

@@ -39,6 +39,7 @@
 	/*--black: #0F0E12;*/
 	--white: #f6f8f7;
 	--gray: #e5e5e5;
+	--light-gray: #B2B2B2;
 	--font-sans: 'Sans', sans-serif, serif;
 
 	--step--2: clamp(0.7813rem, 0.7736rem + 0.0341vw, 0.8rem);
@@ -62,17 +63,18 @@
 	--color-black: var(--black);
 	--color-white: var(--white);
 	--color-gray: var(--gray);
+	--color-light-gray: var(--light-gray);
 }
 
 @layer base {
 	body {
 		font-family: var(--font-sans);
-		background-color: var(--color-black);
+		background: var(--color-black);
 		color: var(--color-white);
 	}
 
 	p {
-		font-size: var(--step-2);
+		font-size: var(--step-1);
 		font-weight: 300;
 		text-wrap: pretty;
 	}
@@ -89,5 +91,10 @@
 	select option {
 		background-color: var(--gray);
 		color: var(--black);
+	}
+
+	*:focus-visible {
+	    outline: 2px solid var(--orange);
+
 	}
 }
