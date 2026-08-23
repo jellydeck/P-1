@@ -65,11 +65,11 @@
 	--color-light-gray: var(--light-gray);
 }
 
-*:focus-visible {
-	outline: 2px solid var(--orange);
-}
-
 @layer base {
+	*:focus-visible {
+		outline: 2px solid var(--white);
+	}
+
 	body {
 		font-family: var(--font-sans);
 		background: var(--color-black);
@@ -85,10 +85,16 @@
 	a {
 		font-size: var(--step-0);
 		font-weight: 300;
+
 	}
 
 	a:hover {
 		text-decoration: underline;
+	}
+
+
+	a:focus-visible {
+		outline-color: currentColor;
 	}
 
 	select option {
