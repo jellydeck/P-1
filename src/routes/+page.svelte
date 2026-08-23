@@ -70,20 +70,6 @@
 		</p>
 		<p> It pushes you to commit.</p>
 	</div>
-
-	<!-- <div> -->
-	<!-- <p>designed to work <i>with</i> your muscle memory</p> -->
-	<!-- <p>add, subtract, multiply and divide numbers quickly.</p> -->
-	<!-- <p>there is intentionaly one clear button that clears whole screen.</p> -->
-	<!-- <p>comes with finger rest so you can be rest assured. not useful for scientific calculations*</p> -->
-	<!-- </div> -->
-
-	<!-- <div class="mx-auto max-w-[75ch]">
-		<p>Space doesn't do undo. Neither do we.</p>
-		<p>
-		two distinct buttons: AC and = for your fingers to
-		</p>
-	</div> -->
 </div>
 
 <Specs />
