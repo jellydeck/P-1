@@ -36,7 +36,6 @@
 	--orange: #ed5213;
 	--black: #000;
 	--blue: #3674bc;
-	/*--black: #0F0E12;*/
 	--white: #f6f8f7;
 	--gray: #e5e5e5;
 	--light-gray: #b2b2b2;
@@ -102,7 +101,7 @@
 		transition: transform 100ms ease-out;
 	}
 	.key:active path {
-		transform: translate(0px, 7.5px);
+		transform: translate(0px, 4px);
 	}
 	/*.key:hover .top > path {
 		fill: rgba(255,255,255,0.1);
