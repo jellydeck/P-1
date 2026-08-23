@@ -26,31 +26,49 @@
 </div>
 
 <div class="space-y-15 bg-gray px-5 py-30 text-center text-black">
-	<div class="mx-auto max-w-[75ch]">
+	<div class="mx-auto max-w-[75ch] space-y-8">
 		<p class="mx-auto w-fit rounded-md bg-orange px-2 text-white">limited edition</p>
-	</div>
-
-	<div class="mx-auto max-w-[75ch]">
 		<p>
-			a calculator with only essential operations &amp; a clear screen button in compact body you
-			can slide easily into your pocket. a coin battery that lasts months of use.
+			GSLV-15 carrying NVS-02 navigation satellite, marked the 100<sup>th</sup> launch of ISRO
+			 and to celebrate this landmark, we're collaborating to create
+			an exclusive calculator.
 		</p>
 	</div>
+
+	<div class="mx-auto max-w-[75ch]"></div>
 
 	<div class="md:mx-30">
 		<CalculatorFront />
 	</div>
 
 	<div class="mx-auto max-w-[75ch]">
-		<a href="https://jaydip.me" class="text-(length:--step-2) text-blue">buy now</a>
+		<p>only 100 units</p>
 	</div>
 
+	<div>
+		<a
+			href="https://jaydip.me"
+			class="text-(length:--step-2) text-blue"
+			target="_blank"
+			rel="noreferrer noopener">buy now</a
+		>
+	</div>
+
+	<div class="mx-auto max-w-[75ch]">
+		<p>a calculator with essential operations &amp; a clear screen key.</p>
+		<p>enclosed in compact body you can slide easily into your pocket.</p>
+		<p>comes with a coin battery that lasts months.</p>
+	</div>
+
+
+
+
 	<div class="mx-auto max-w-[75ch] space-y-4">
-		<p>designed with ISRO, only 100 editions</p>
-		<p class="text-(length:--step-1)">
-			these guys don't know when to turn back. so naturally, we were inspired with that attitude
-			designed our calculator with one button to clear full screen. if it's wrong it ain't worth it.
+		<p>
+			We were inspired by the relentless and bold attitude of the ISRO, we  reflected it in
+			the design with only one "All Clear" key.
 		</p>
+		<p> It pushes you to commit.</p>
 	</div>
 
 	<!-- <div> -->

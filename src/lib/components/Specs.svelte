@@ -15,6 +15,6 @@
 		<div class="flex items-center justify-center"><UniqueKeys class="w-45"/></div>
 		<p class="flex items-center">distinct key shapes so your fingers can find the right key</p>
 		<div class="flex items-center justify-center"><Groove class="w-45"/></div>
-		<p class="flex items-center">machine-drilled grooves for resting your fingers</p>
+		<p class="flex items-center">machine-drilled grooves to rest your fingers, allowing you to refocus.</p>
 	</div>
 </div>
