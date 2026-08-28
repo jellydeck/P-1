@@ -29,9 +29,8 @@
 	<div class="mx-auto max-w-[75ch] space-y-8">
 		<p class="mx-auto w-fit rounded-md bg-orange px-2 text-white">limited edition</p>
 		<p>
-			GSLV-15 carrying NVS-02 navigation satellite, marked the 100<sup>th</sup> launch of ISRO
-			 and to celebrate this landmark, we're collaborating to create
-			an exclusive calculator.
+			GSLV-15 carrying NVS-02 navigation satellite, marked the 100<sup>th</sup> launch of ISRO and to
+			celebrate this landmark, we're collaborating to create an exclusive calculator.
 		</p>
 	</div>
 
@@ -60,18 +59,24 @@
 		<p>comes with a coin battery that lasts months.</p>
 	</div>
 
-
-
-
 	<div class="mx-auto max-w-[75ch] space-y-4">
 		<p>
-			We were inspired by the relentless and bold attitude of the ISRO, we  reflected it in
-			the design with only one "All Clear" key.
+			We were inspired by the relentless and bold attitude of the ISRO, we reflected it in the
+			design with only one "All Clear" key.
 		</p>
-		<p> It pushes you to commit.</p>
+		<p>It pushes you to commit.</p>
 	</div>
 </div>
 
 <Specs />
+
+<div class=" bg-gray text-black text-center py-10">
+    <div class="mx-auto max-w-[75ch]">
+	<p>
+		a concept site by
+		<a class="text-(length:--step-1) text-blue" href="https://jaydip.me" target="_blank" rel="noreferrer noopener">jaydip sanghani</a>
+	</p>
+    </div>
+</div>
 
 <Footer />
