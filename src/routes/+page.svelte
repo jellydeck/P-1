@@ -9,7 +9,7 @@
 </script>
 
 <div class="relative">
-	<Calculator class="pointer-none mx-auto w-full  sm:w-[65vw]" />
+	<Calculator class="pointer-none mx-auto w-full px-2 sm:w-[65vw]" />
 
 	<TE class="absolute top-2 w-(--step-9) max-sm:left-2 sm:right-0" />
 </div>
