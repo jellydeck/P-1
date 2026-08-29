@@ -70,13 +70,23 @@
 
 <Specs />
 
-<div class=" bg-gray text-black text-center py-10">
-    <div class="mx-auto max-w-[75ch]">
-	<p>
-		a concept site by
-		<a class="text-(length:--step-1) text-blue" href="https://jaydip.me" target="_blank" rel="noreferrer noopener">jaydip sanghani</a>
-	</p>
-    </div>
+<div class=" bg-gray py-10 text-center text-black">
+	<div class="mx-auto max-w-[75ch]">
+		<p>
+			a concept site by
+			<a
+				class="text-(length:--step-1) text-blue"
+				href="https://jaydip.me"
+				target="_blank"
+				rel="noreferrer noopener">jaydip sanghani</a
+			>
+		</p>
+	</div>
+</div>
+
+<div class="mx-auto max-w-[75ch] py-4 text-center">
+	<p class="text-(length:--step--1)">All rights reserved by their respective owners.</p>
+	<p class="text-(length:--step--1)">This is an unofficial concept, not affiliated with Teenage Engineering or ISRO.</p>
 </div>
 
 <Footer />
