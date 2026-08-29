@@ -84,7 +84,7 @@
 	</div>
 </div>
 
-<div class="mx-auto max-w-[75ch] py-4 text-center">
+<div class="mx-auto max-w-[75ch] pt-5 text-center">
 	<p class="text-(length:--step--1)">All rights reserved by their respective owners.</p>
 	<p class="text-(length:--step--1)">This is an unofficial concept, not affiliated with Teenage Engineering or ISRO.</p>
 </div>
