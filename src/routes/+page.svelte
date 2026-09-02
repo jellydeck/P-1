@@ -81,12 +81,24 @@
 				rel="noreferrer noopener">jaydip sanghani</a
 			>
 		</p>
+
+		<p>
+			source at
+			<a
+				class="text-(length:--step-1) text-blue"
+				href="https://github.com/jellydeck/P-1"
+				target="_blank"
+				rel="noreferrer noopener">github</a
+			>
+		</p>
 	</div>
 </div>
 
 <div class="mx-auto max-w-[75ch] pt-5 text-center">
 	<p class="text-(length:--step--1)">All rights reserved by their respective owners.</p>
-	<p class="text-(length:--step--1)">This is an unofficial concept, not affiliated with Teenage Engineering or ISRO.</p>
+	<p class="text-(length:--step--1)">
+		This is an unofficial concept, not affiliated with Teenage Engineering or ISRO.
+	</p>
 </div>
 
 <Footer />
